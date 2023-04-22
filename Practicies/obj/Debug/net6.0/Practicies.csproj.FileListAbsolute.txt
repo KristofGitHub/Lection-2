@@ -1,0 +1,15 @@
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\bin\Debug\net6.0\Practicies.exe
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\bin\Debug\net6.0\Practicies.deps.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\bin\Debug\net6.0\Practicies.runtimeconfig.json
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\bin\Debug\net6.0\Practicies.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\bin\Debug\net6.0\Practicies.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\Practicies.csproj.AssemblyReference.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\Practicies.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\Practicies.AssemblyInfoInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\Practicies.AssemblyInfo.cs
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\Practicies.csproj.CoreCompileInputs.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\Practicies.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\refint\Practicies.dll
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\Practicies.pdb
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\Practicies.genruntimeconfig.cache
+D:\03 - Развлечения\04 - Программирование\02 - GeekBrains\05 - Знакомство с С#\03 - Lesson 2\Practicies\obj\Debug\net6.0\ref\Practicies.dll
