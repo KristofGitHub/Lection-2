@@ -5,24 +5,10 @@
     return result;
 }
 
-int a1 = 15;
-int b1 = 21;
-int c1 = 17;
+int[] array = {15, 21, 17, 222, 280, 177, 151, 23, 44};
 
-int a2 = 222;
-int b2 = 28;
-int c2 = 177;
-
-int a3 = 151;
-int b3 = 23;
-int c3 = 44;
-
-// int max1 = Max(a1, b1, c1);
-// int max2 = Max(a2, b2, c2);
-// int max3 = Max(a3, b3, c3);
-
-int max = Max(Max(a1, b1, c1), 
-              Max(a2, b2, c2), 
-              Max(a3, b3, c3));
+int max = Max(Max(array[0], array[1],array[2]), 
+              Max(array[3], array[4], array[5]), 
+              Max(array[6], array[7], array[8]));
 
 Console.WriteLine("Максимальное число равно " + max);
