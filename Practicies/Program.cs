@@ -14,15 +14,34 @@
 // Console.WriteLine("Максимальное число равно " + max);
 
 
-int[] array = {10, 2, 35, 14, 5, 8, 71, 8};
-int size = array.Length;
-int find = 8;
-int i = 0;
+// int[] array = {10, 2, 35, 14, 5, 8, 71, 8};
+// int size = array.Length;
+// int find = 8;
+// int i = 0;
 
-while (i < size){
-    if (array[i] == find){
-        Console.WriteLine(i);
-        break;
+// while (i < size){
+//     if (array[i] == find){
+//         Console.WriteLine(i);
+//         break;
+//     }
+//     i++;
+// }
+
+
+void FillArray(int[] collection){
+    int length = collection.Length;
+    int index = 0;
+    while(index < length){
+        collection[index] = new Random().Next(1, 10);
+        index++;
     }
-    i++;
 }
+
+void PrintArray(int[] col){
+    int count = col.Length;
+    int position = 0;
+
+}
+
+int[] array = new int[10];
+
